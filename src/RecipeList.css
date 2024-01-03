@@ -1,0 +1,5 @@
+  tbody > tr:nth-child(odd) {
+    background-color: #fff0c7;
+  }
+
+ /* thead >tr>th{ border:1px solid black;}*/
