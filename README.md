@@ -10,6 +10,17 @@ This project is a simple recipe-tracking app that allows users to add, view, and
 - **Delete a Recipe**: Users can delete a recipe by clicking the "Delete" button associated with each recipe entry.
 - **Styling**: The app is styled based on the mockup requirements and includes features such as zebra-striped rows, column width adjustments, and scrollbar behavior for lengthy content.
 
+## Technologies Used
+
+- **React**: JavaScript library used to build the user interfaces, efficient component-based architecture and state management.
+- **HTML5**: Used for structuring the app's layout and content.
+- **CSS3**: Used for styling the components to match the mockup and implement responsive design.
+- **JavaScript (ES6+)**: Used to implement the core functionality of the app, including handling state, event listeners, and dynamic updates.
+- **Node.js**: Required for running the development server and managing the project's dependencies.
+- **npm**: The package manager used to install and manage project dependencies.
+
+### External Libraries
+- **Google Fonts**: The 'Playfair Display SC' and 'Open Sans' fonts are imported from Google Fonts for typography styling.
 
 
 ## Setup
