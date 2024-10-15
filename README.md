@@ -62,12 +62,16 @@ To create a recipe, fill out the form fields:
 - **Preparation**: Describe the preparation steps in a `<textarea>` field.
 When the form is submitted, the new recipe will be added to the end of the list.
 
+![Creating Recipe Screenshot](screenshots/createRecipe.png)
+
 ### Displaying the Recipes
 The recipes are displayed in a table format:
 
 - Columns include the name, cuisine, photo, ingredients, and preparation instructions.
 - The preparation and ingredient columns have scrollbars if the content exceeds the column height.
-  
+
+![Displaying Recipe Screenshot](screenshots/displayRecipe.png)
+
 ### Deleting a Recipe
 Each recipe row includes a "Delete" button. Clicking the button removes the recipe from the list.
 
