@@ -2,14 +2,6 @@
 
 This project is a simple recipe-tracking app that allows users to add, view, and delete recipes. It is built using React and styled according to the provided mockup. The app manages the state for the list of recipes and uses various React components to organize the structure and functionality.
 
-
-## Features
-
-- **Create a Recipe**: Users can create a new recipe by filling out a form that includes fields for the recipe name, cuisine, photo URL, ingredients, and preparation instructions.
-- **Read Recipes**: The app displays a list of all the recipes, showing the name, cuisine, photo, ingredients, and preparation instructions in a table format.
-- **Delete a Recipe**: Users can delete a recipe by clicking the "Delete" button associated with each recipe entry.
-- **Styling**: The app is styled based on the mockup requirements and includes features such as zebra-striped rows, column width adjustments, and scrollbar behavior for lengthy content.
-
 ## Technologies Used
 
 - **React**: JavaScript library used to build the user interfaces, efficient component-based architecture and state management.
@@ -18,6 +10,13 @@ This project is a simple recipe-tracking app that allows users to add, view, and
 - **JavaScript (ES6+)**: Used to implement the core functionality of the app, including handling state, event listeners, and dynamic updates.
 - **Node.js**: Required for running the development server and managing the project's dependencies.
 - **npm**: The package manager used to install and manage project dependencies.
+  
+## Features
+
+- **Create a Recipe**: Users can create a new recipe by filling out a form that includes fields for the recipe name, cuisine, photo URL, ingredients, and preparation instructions.
+- **Read Recipes**: The app displays a list of all the recipes, showing the name, cuisine, photo, ingredients, and preparation instructions in a table format.
+- **Delete a Recipe**: Users can delete a recipe by clicking the "Delete" button associated with each recipe entry.
+- **Styling**: The app is styled based on the mockup requirements and includes features such as zebra-striped rows, column width adjustments, and scrollbar behavior for lengthy content.
 
 ### External Libraries
 - **Google Fonts**: The 'Playfair Display SC' and 'Open Sans' fonts are imported from Google Fonts for typography styling.
